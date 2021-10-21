@@ -25,3 +25,7 @@ body {
 .logo-footer {
   height: 25px;
 }
+p.card-text {
+  color: #707070;
+  font-weight: 300;
+}
